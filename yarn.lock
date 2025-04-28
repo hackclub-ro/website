@@ -534,10 +534,10 @@
   resolved "https://registry.yarnpkg.com/@eslint/js/-/js-8.47.0.tgz#5478fdf443ff8158f9de171c704ae45308696c7d"
   integrity sha512-P6omY1zv5MItm93kLM8s2vr1HICJH8v0dvddDhysbIuZ+vcjOHg5Zbkf1mTkcmi2JA9oBG2anOkRnW8WJTS8Og==
 
-"@hackclub/icons@^0.0.14":
-  version "0.0.14"
-  resolved "https://registry.yarnpkg.com/@hackclub/icons/-/icons-0.0.14.tgz#c590432d5a1e4b39c384d577e59e24bffdd94197"
-  integrity sha512-xH/DV6TxlsvLuNGeBIausfKlH4eyp6CYXCckAxcYahL2NOdcZTZoJWKZBG38BzM5WfWnhfFkud/mQ5bqeFQK3g==
+"@hackclub/icons@^0.0.15":
+  version "0.0.15"
+  resolved "https://registry.yarnpkg.com/@hackclub/icons/-/icons-0.0.15.tgz#612b9e107d9eabb44e0eeb1f8ebfcdc6b88c2e28"
+  integrity sha512-IKJ5JQhRhlkYINv9pxzT//fn3aYwsGBeyNNBcw7eU+J0lfs0wGrq9lh7CGcXUUGXaKFxDPRlWhTxaAVaRdZVRA==
 
 "@hackclub/meta@^1.1.32":
   version "1.1.32"

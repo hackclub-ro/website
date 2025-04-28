@@ -1,0 +1,10 @@
+.next/
+node_modules/
+
+.now
+
+.env
+.env.local
+.vercel
+
+.DS_Store
